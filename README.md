@@ -8,11 +8,16 @@
 
 ## 🔧 Technical Skills
 Languages: C/C++, SQL, Python
+
 Computer Science Fundamentals: Data Structures, Object Oriented Programming, Operating Sys
 tem, Database Management System, Computer Networks, AI/ML
+
 Soft Skills: Analytical Thinking, Logical Reasoning, Problem Solving, Communication.
+
 3D & Game Development: SMPL Model, SMPL-X Model.
+
 Developer Tools: VS Code, Google Colab, MySQL
+
 Data and ETL Tools: Informatica PowerCenter
 
 ---
